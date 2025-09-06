@@ -11,6 +11,6 @@
   "author": "traderjoe155",
   "license": "ISC",
   "dependencies": {
-    "@compendiumfi/pendax": "^2.1.20"
+    "@compendiumfi/pendax": "^2.1.22"
   }
 }
